@@ -1,0 +1,25 @@
+{
+  "name": "chat-app-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddoyediran/chat-app-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddoyediran/chat-app-node/issues"
+  },
+  "homepage": "https://github.com/ddoyediran/chat-app-node#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "socket.io": "^4.5.4"
+  }
+}
